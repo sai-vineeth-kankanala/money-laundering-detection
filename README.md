@@ -4,6 +4,7 @@ A modern, production-ready Anti-Money Laundering (AML) compliance monitoring das
 
 This application provides a professional fintech UI, interactive visual analytics with Plotly, and a machine learning pipeline for real-time transaction risk scoring.
 
+**🚀 Live Demo:** [View on Streamlit Community Cloud](https://money-laundering-detection.streamlit.app)
 ## Features
 
 - **Overview Dashboard**: High-level KPIs, anomaly detection graphs, and real-time transaction volume monitoring.
