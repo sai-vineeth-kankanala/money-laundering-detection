@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated data and models
+# model.pkl and sample_transactions.csv are intentionally ALLOWED 
+# so the application can run instantly on Cloud platforms without retraining.
+
+# OS generated files
+.DS_Store
+Thumbs.db
