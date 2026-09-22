@@ -179,7 +179,7 @@ streamlit run app.py
 ## Author
 
 **Sai Vineeth Kankanala**
-- AI Engineer | Backend Developer | LLM Systems
+- Data Analyst
 - [LinkedIn](https://www.linkedin.com/in/sai-vineethkankanala)
 - [GitHub](https://github.com/sai-vineeth-kankanala)
 
