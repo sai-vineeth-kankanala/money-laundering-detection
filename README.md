@@ -1,6 +1,6 @@
 # Fraud Detection ML Pipeline
 
-**Production-grade machine learning system for detecting fraudulent transactions and money laundering patterns**
+**End-to-end machine learning pipeline for detecting fraudulent transactions and money laundering patterns**
 
 ## Problem Statement
 
@@ -27,7 +27,7 @@ Financial institutions process millions of transactions daily and must identify 
 - **50K+ Transaction Processing:** Handles large-scale datasets efficiently using vectorized operations
 - **Multi-Class Detection:** Identifies structuring, smurfing, and anomalous transaction patterns
 - **Modular Design:** Separate components for data processing, training, and evaluation enable easy iteration
-- **Production Ready:** Includes logging, error handling, and result tracking
+- **Robust Pipeline:** Includes logging, error handling, and result tracking
 - **Comprehensive Metrics:** Evaluates models using precision, recall, F1-score, and ROC-AUC
 
 ## Results & Metrics
@@ -39,7 +39,6 @@ Financial institutions process millions of transactions daily and must identify 
   - **F1-Score:** 0.895 (balanced performance)
   - **ROC-AUC:** 0.94 (excellent discrimination)
 - **Processing Speed:** Sub-second inference on single transactions
-- **Scalability:** Designed to handle batch predictions on 10K+ transactions/minute
 
 ## Installation & Setup
 
